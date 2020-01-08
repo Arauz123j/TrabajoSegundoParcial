@@ -1,0 +1,3 @@
+C:\Users\Usuario\source\repos\Trabajo Autónomo 2 Parcial\Trabajo Autónomo 2 Parcial\obj\Debug\netcoreapp3.0\Trabajo Autónomo 2 Parcial.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Trabajo Autónomo 2 Parcial\Trabajo Autónomo 2 Parcial\obj\Debug\netcoreapp3.0\Trabajo Autónomo 2 Parcial.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Trabajo Autónomo 2 Parcial\Trabajo Autónomo 2 Parcial\obj\Debug\netcoreapp3.0\Trabajo Autónomo 2 Parcial.AssemblyInfo.cs

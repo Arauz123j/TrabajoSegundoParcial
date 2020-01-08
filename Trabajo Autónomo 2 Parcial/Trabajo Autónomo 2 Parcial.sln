@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trabajo Autónomo 2 Parcial", "Trabajo Autónomo 2 Parcial\Trabajo Autónomo 2 Parcial.csproj", "{89BA5619-810E-43EE-A8EA-1924E0D10AAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89BA5619-810E-43EE-A8EA-1924E0D10AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89BA5619-810E-43EE-A8EA-1924E0D10AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89BA5619-810E-43EE-A8EA-1924E0D10AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89BA5619-810E-43EE-A8EA-1924E0D10AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92F1A548-884E-4D4F-90F3-55580823D196}
+	EndGlobalSection
+EndGlobal
